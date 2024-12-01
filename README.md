@@ -1,7 +1,7 @@
 <div align="center">
-  Hi, I'm Ellie and I'm a level 4 data analyst apprentice & part-time BSc (Hons) Physics undergraduate at The Open University.
+  I'm Ellie and I'm a level 4 data analyst apprentice & part-time BSc (Hons) Physics undergraduate at The Open University.
   <br>
-  Developing my data analysis and computer programming skills to work in astrophysics or high energy physics research someday.
+  Developing my data analysis and programming skills to work in astrophysics or high energy physics research someday.
   <br>
   <br>
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
