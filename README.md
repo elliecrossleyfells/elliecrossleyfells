@@ -1,5 +1,5 @@
 <div align="center">
-  I'm Ellie and I'm a level 4 data analyst apprentice & part-time BSc (Hons) Physics undergraduate at The Open University.
+  I'm Ellie and I'm a junior data analyst apprentice & part-time BSc (Hons) Physics undergraduate.
   <br>
   Interested in astrophysics, high energy physics, and climate science/meterology. 
   <br>
