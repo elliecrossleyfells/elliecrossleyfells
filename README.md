@@ -1,5 +1,5 @@
 <div align="center">
-  I'm Ellie and I'm a junior data analyst apprentice & part-time BSc (Hons) Physics undergraduate.
+  I'm Ellie and I'm a junior data analyst & part-time BSc (Hons) Physics undergraduate.
   <br>
   Interested in astrophysics, high energy physics, and climate science/meterology. 
   <br>
