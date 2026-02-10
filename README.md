@@ -1,5 +1,5 @@
 <div align="center">
-  I'm Ellie and I'm a junior data analyst & part-time MPhys undergraduate.
+  I'm Ellie and I'm a Data Analyst & MPhys undergraduate.
   <br>
   Interested in astrophysics, high energy physics, and climate science/meterology. 
   <br>
