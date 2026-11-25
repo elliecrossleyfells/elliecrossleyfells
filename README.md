@@ -1,7 +1,5 @@
 <div align="center">
-  I'm Ellie and I'm a Data Engineer & MPhys undergraduate.
-  <br>
-  Interested in astrophysics, high energy physics, and climate science/meterology. 
+  I'm Ellie and I'm a Data Engineer & MPhys undergraduate. Interested in all things astrophysics, high energy physics, and climate science/meterology, and I'd love to work at CERN one day.
   <br>
   <br>
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
